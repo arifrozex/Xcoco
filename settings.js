@@ -21,9 +21,9 @@ global.socialm = "GitHub: Mr-Katussa" //ur github or insta name
 global.location = "Sri Lanka, Colombo, Kiribathgoda" //ur location
 
 //bot bomdy 
-global.ownernomer = "94764497078" //ur number
-global.premium = ['94764497078'] //ur premium number
-global.botname = 'Xcoco' //ur bot name
+global.ownernomer = "081227317150" //ur number
+global.premium = ['081227317150'] //ur premium number
+global.botname = 'j' //ur bot name
 global.themeemoji = "♻️" //ur theme emoji
 global.packname = "Sticker By Xcoco" //ur sticker watermark packname
 global.author = "Xcoco" //ur sticker watermark author
